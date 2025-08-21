@@ -19,7 +19,7 @@
     height: 100vh;
     display: flex;
     justify-content: left;
-    background-color: #f1f1f1;
+    background-color: #a7e0f7;
     padding-left: 20px;
 }
 
@@ -39,20 +39,23 @@
 
 .container__right header{
     height: 80px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding: 20px;
+    background-color: #C5EDFD;
 }
 
 .container__right main{
     height: calc(100% - 160px);
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding: 20px;
+    background-color: #f2f2f2;
 }
 
 .container__right footer{
     height: 80px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding: 20px;
+    background-color: #C5EDFD;
 }
 
 
